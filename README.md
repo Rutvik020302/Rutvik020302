@@ -1,6 +1,8 @@
+
+![logo](https://github.com/Rutvik020302/Rutvik020302/blob/main/Rutvik%20Pethe.png)
 <h1 align="center">Hi 👋, I'm Rutvik Pethe</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
-<img align="right alt="coding" width="400" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rutvik020302&label=Profile%20views&color=0e75b6&style=flat" alt="rutvik020302" /> </p>
 
